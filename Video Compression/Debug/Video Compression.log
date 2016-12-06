@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\kevin\documents\visual studio 2015\projects\video compression\video compression\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\video compression\video compression\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  Video Compression.vcxproj -> c:\users\kevin\documents\visual studio 2015\Projects\Video Compression\Debug\Video Compression.exe
